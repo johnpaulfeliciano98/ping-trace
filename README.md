@@ -61,10 +61,10 @@ Ping Trace is a network diagnostic tool written in Python that builds upon a raw
 
 ## Screenshots
 
-![Traceroute Output - ICMP Time Exceeded](images/pingtrace-type11.png)  
+![Traceroute Output - ICMP Time Exceeded](traceroute-type11.png)  
 *Output showing an intermediate router response (ICMP Type 11).*
 
-![Traceroute Output - ICMP Echo Reply](images/pingtrace-type0.png)  
+![Traceroute Output - ICMP Echo Reply](traceroute-type0.png)  
 *Output showing the destination response (ICMP Echo Reply, Type 0).*
 
 ## Contact
